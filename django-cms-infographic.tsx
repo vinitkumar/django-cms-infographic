@@ -8,7 +8,7 @@ export default function DjangoCMSVersioningInfographic() {
 
   return (
     <>
-    
+
     <div className="w-full max-w-5xl mx-auto bg-white rounded-xl shadow-md overflow-hidden">
       <div className="bg-gradient-to-r from-emerald-600 to-teal-600 p-6 text-white">
         <h1 className="text-3xl font-bold tracking-tight">Django CMS Version Evolution</h1>
@@ -94,7 +94,7 @@ export default function DjangoCMSVersioningInfographic() {
                 </div>
                 <div className="ml-6 pt-2">
                   <h3 className="text-xl font-bold text-gray-800">Django CMS 5.0 (Originally planned as Django CMS 4.2)</h3>
-                  <p className="mt-1 text-sm text-emerald-700">Coming soon in 2024</p>
+                  <p className="mt-1 text-sm text-emerald-700">Coming soon in 2025</p>
                   <p className="mt-2 text-gray-600">
                     Introduces breaking changes including simplified models for improved performance, while maintaining
                     a straightforward upgrade path from 4.1.
